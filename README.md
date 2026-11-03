@@ -14,8 +14,6 @@ When only the synthesis changes (same paper, same electrolyte, same test):
 - **Temperature matters:** charring coal at 1000 °C instead of 520 °C **more than halved** the capacitance of the resulting activated carbon (286 → 127 F/g).
 - **Choices carry trade-offs:** polypyrrole grown on titanium gave **15% more capacitance** than on stainless steel, but **lower stability** (77% vs. 91% retention).
 
-![Controlled comparisons page]
-
 ## What I built
 
 - **Data extraction** from primary literature into a structured dataset
