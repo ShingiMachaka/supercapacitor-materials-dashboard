@@ -2,8 +2,6 @@
 
 A MySQL database and Power BI dashboard built from 23 results in 14 peer-reviewed papers, showing how the way an electrode material is made changes how well it stores charge.
 
-![Overview page](images/overview.png)
-
 ## Why I built this
 
 My master's thesis at NUST MISIS (Moscow) studied the effect of polyaniline (PANI) on the electrochemical properties of supercapacitors. This project grew out of wanting to understand the wider field, and it brings that materials background together with my MS in Business Analytics & AI at American University. I deliberately kept it to 14 papers so I could learn the full pipeline end to end.
