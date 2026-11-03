@@ -36,4 +36,4 @@ No Power BI Desktop? Open `powerbi/supercapacitor_dashboard.pdf`.
 
 ---
 
-**Shingirai MacHaka** · [LinkedIn](https://www.linkedin.com/in/shingi-machaka/)
+**Shingi Machaka** · [LinkedIn](https://www.linkedin.com/in/shingi-machaka/)
